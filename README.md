@@ -1,4 +1,4 @@
-Building my first app on Ruby on Rails.
+# Building my first app on Ruby on Rails.
 
 I have no idea what on earth I'm doing, but we're kind of figuring this all out as I go.
 
